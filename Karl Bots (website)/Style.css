@@ -1,16 +1,16 @@
 @font-face {
-  font-family: osake;
+  font-family: uniform;
   src: url(Font/UniformLight.otf) format('OpenType');
   }
 
 body {
-    background-color: #575a65;
+    background-color: #292a2e;
     margin: 0;
     padding: 0;
   }
 
   * {
-    font-family: osake;
+    font-family: uniform;
   }
 
   ul {
