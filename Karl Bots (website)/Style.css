@@ -1,6 +1,6 @@
 @font-face {
   font-family: osake;
-  src: url(Osake_Font/Osake.ttf) format('truetype');
+  src: url(Font/UniformLight.otf) format('OpenType');
   }
 
 body {
