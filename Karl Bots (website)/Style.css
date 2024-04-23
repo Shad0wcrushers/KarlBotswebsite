@@ -1,7 +1,16 @@
+@font-face {
+  font-family: osake;
+  src: url(Osake_Font/Osake.ttf) format('truetype');
+  }
+
 body {
     background-color: #575a65;
     margin: 0;
     padding: 0;
+  }
+
+  * {
+    font-family: osake;
   }
 
   ul {
@@ -42,7 +51,7 @@ body {
 
   .custom-banner img {
     width: 100%; 
-    height: 450px; 
+    height: 275px; 
     background-image: url('DJKarlBanner.png'); 
     background-size: cover; 
     background-position: center; 
